@@ -84,9 +84,8 @@ I build AI systems that accelerate **drug discovery and biomedical research**, f
 
 <p align="center">
 <img src="<img width="910" height="547" alt="image_20260216T065035" src="https://github.com/user-attachments/assets/004020dd-956b-4433-9612-5afeb14e0519" />
-" width="45%" />
 <img src="<img width="700" height="500" alt="Model Comparison based on Cross-validation Accuracy" src="https://github.com/user-attachments/assets/697d2d9d-034f-4dcd-aa25-2435690e94e7" />
-" width="45%" />
+" />
 </p>
 
 ---
