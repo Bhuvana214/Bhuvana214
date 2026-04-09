@@ -7,7 +7,7 @@
 
 <p align="center">
 🔬 AI for Drug Discovery & Life Sciences <br>
-🧠 Computational chemistry and  Biology | Predictive Modeling | Scientific AI | Global Regulatory Affairs <br>
+🧠 Computational chemistry and  Biology | Organic chemistry | Scientific AI | Global Regulatory Affairs <br>
 🚀 Building intelligent systems with ML, Deep Learning & Cloud
 </p>
 
