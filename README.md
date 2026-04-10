@@ -28,7 +28,7 @@ I build AI systems that accelerate **drug discovery and biomedical research**, f
 - 🧠 Scientific document intelligence (RAG systems)
 - 🔬 Molecular property prediction (RDKit + ML)
 - 📊 Data-driven biological insights
-- ☁️ Scalable ML pipelines using AWS
+- ☁️ Scalable ML pipelines.
 
 ---
 
