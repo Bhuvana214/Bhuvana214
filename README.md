@@ -126,4 +126,4 @@ I build AI systems that accelerate **drug discovery and biomedical research**, f
 
 ---
 
-⭐ *Transforming biological data into intelligent insights using AI*
+⭐ *Transforming biological and chemical  data into intelligent insights using AI*
