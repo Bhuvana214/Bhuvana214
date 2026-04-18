@@ -37,7 +37,7 @@ I build AI systems that accelerate **drug discovery and biomedical research**, f
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,git,github" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,git,github,Sklearn" />
 </p>
 
 **Core Skills**
