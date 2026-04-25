@@ -41,7 +41,7 @@ I build AI systems that accelerate **drug discovery and biomedical research**, f
 </p>
 
 **Core Skills**
-- Machine Learning, Deep Learning ,Sklearn 
+- Machine Learning, Deep Learning 
 - NumPy, pandas, scikit-learn  
 - BioPython, RDKit  
 - Data Analysis & Modeling  
